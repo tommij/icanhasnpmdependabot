@@ -1,0 +1,12 @@
+{
+  "name": "not-important",
+  "version": "1.2.3",
+  "dependencies": {
+    "@babel/polyfill": "7.12.1",
+    "chokidar": "2.1.6"
+  },
+  "engines": {
+    "npm": "~7.5.2",
+    "node": "v12.22.5"
+  }
+}
