@@ -3,7 +3,7 @@
   "version": "1.2.3",
   "dependencies": {
     "@babel/polyfill": "7.12.1",
-    "chokidar": "2.1.6"
+    "chokidar": "3.5.3"
   },
   "engines": {
     "npm": "~7.5.2",
